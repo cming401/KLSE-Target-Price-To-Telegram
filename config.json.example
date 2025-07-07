@@ -1,0 +1,16 @@
+{
+    "telegram": {
+        "bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
+        "channel_id": "YOUR_TELEGRAM_CHANNEL_ID",
+        "chat_id": "YOUR_TELEGRAM_CHAT_ID"
+    },
+    "schedule": {
+        "enabled": true,
+        "time": "18:00",
+        "weekdays_only": true
+    },
+    "data_source": {
+        "url": "https://klse.i3investor.com/web/pricetarget/latest",
+        "fallback_to_sample": true
+    }
+}

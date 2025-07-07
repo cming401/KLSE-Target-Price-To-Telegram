@@ -1,1 +1,1 @@
-# KLSE_targetpriec2telegram
+# KLSE_target priec to telegram
